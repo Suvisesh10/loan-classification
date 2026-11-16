@@ -8,7 +8,7 @@ st.set_page_config(page_title="Loan Classification",page_icon="logo (1).png",lay
 
 with st.sidebar:
     st.title("Loan Classification")
-    st.image("logo (1).png")
+    st.image("photo_2026-11-16_13-35-19.jpg")
 
 
 # load the model 
