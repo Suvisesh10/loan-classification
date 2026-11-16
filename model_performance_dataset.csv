@@ -1,0 +1,6 @@
+,Accuracy
+Logistic Regression,0.8563492063492063
+Naive Bayes,0.7323492063492063
+Support Vector Machine,0.9146349206349207
+Decision Tree,0.9131111111111111
+Random Forest,0.9197460317460318
